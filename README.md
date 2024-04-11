@@ -102,5 +102,5 @@ Since the previous models and the APP did not perform as expected, these are som
 
 ### **Attempts:** 
 
-* Preprocessing attempted on the neurite images - cropping and contrast enhancement 
+* Preprocessing attempted on the neurite images - cropping and contrast enhancement - histogram equalized images from CellProfiler did not open in the Vaa3D. 
 * Image augmentations need to be improved 
